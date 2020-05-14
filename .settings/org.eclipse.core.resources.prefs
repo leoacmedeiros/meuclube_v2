@@ -1,0 +1,33 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/test/java=UTF-8
+encoding//src/test/resources/features/avaliacaoPosHospedagem/RealizarAvaliacaoPosHospedagem.feature=UTF-8
+encoding//src/test/resources/features/login/Login.feature=UTF-8
+encoding//src/test/resources/features/manterBeneficiario/AdicionarBeneficiario.feature=UTF-8
+encoding//src/test/resources/features/manterBeneficiario/AlterarBeneficiario.feature=UTF-8
+encoding//src/test/resources/features/manterBeneficiario/AlterarSituacaoBeneficiario.feature=UTF-8
+encoding//src/test/resources/features/manterBeneficiosParaVoce/AcessarMaisVantagens.feature=UTF-8
+encoding//src/test/resources/features/manterCategoriaTitulo/AlterarCategoriaTitulo.feature=UTF-8
+encoding//src/test/resources/features/manterDadosContato/VerificarDadosContato.feature=UTF-8
+encoding//src/test/resources/features/manterFormaPagamento/AdicionarFormaPagamento.feature=UTF-8
+encoding//src/test/resources/features/manterFormaPagamento/AlterarDiaDebito.feature=UTF-8
+encoding//src/test/resources/features/manterFormaPagamento/AlterarFormaPagamento.feature=UTF-8
+encoding//src/test/resources/features/manterIndicacaoPremiada/RealizarIndicacaoPremiada.feature=UTF-8
+encoding//src/test/resources/features/manterPeriodoUtilizacaoTitulo/AlterarPeriodoUtilizacaoTitulo.feature=UTF-8
+encoding//src/test/resources/features/manterTitulo/AdquirirTitulo.feature=UTF-8
+encoding//src/test/resources/features/manterTitulo/ReativarTitulo.feature=UTF-8
+encoding//src/test/resources/features/manterTransferenciaTitulo/TransferirTitulo.feature=UTF-8
+encoding//src/test/resources/features/mapaHoteis/VisualizarMapaHoteis.feature=UTF-8
+encoding//src/test/resources/features/paginaInicial/DicasDestinos.feature=UTF-8
+encoding//src/test/resources/features/pesquisaHospedagem/ExibirHoteisPromocao.feature=UTF-8
+encoding//src/test/resources/features/pesquisaHospedagem/ExibirMenorValorVeiculo.feature=UTF-8
+encoding//src/test/resources/features/pesquisaHospedagem/ExibirMenorValorVoo.feature=UTF-8
+encoding//src/test/resources/features/pesquisaHospedagem/FiltrarResultadosRefinarBusca.feature=UTF-8
+encoding//src/test/resources/features/pesquisaHospedagem/ListaHoteisPorCidade.feature=UTF-8
+encoding//src/test/resources/features/pesquisaHospedagem/OrdenacaoPersonalizada.feature=UTF-8
+encoding//src/test/resources/features/pesquisaHospedagem/PesquisaQuantidadeHospede.feature=UTF-8
+<<<<<<< HEAD
+encoding/<project>=UTF-8
+=======
+encoding//src/test/resources/features/reserva/CancelarReservaForaPrazo.feature=UTF-8
+>>>>>>> branch 'AutomacaoMeuClube' of ssh://bbrasbuild02:22/tfs/Desen/Novo%20Sistema%20CBTUR/_git/TestScript
